@@ -1,5 +1,5 @@
 {
-  "name": "@myntra/fn",
+  "name": "myntra-fn",
   "version": "1.0.0",
   "description": "tiny lib of functional helpers for personal projects",
   "main": "index.js",
